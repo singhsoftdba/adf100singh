@@ -13,7 +13,7 @@
 	},
 	"resources": [
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun44')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop62')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -32,12 +32,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:24Z"
+				"lastPublishTime": "2025-10-17T17:16:52Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun45')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop63')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -56,12 +56,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:25Z"
+				"lastPublishTime": "2025-10-17T17:16:53Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun46')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop64')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -80,12 +80,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:26Z"
+				"lastPublishTime": "2025-10-17T17:16:54Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun47')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop65')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -104,12 +104,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:27Z"
+				"lastPublishTime": "2025-10-17T17:16:55Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun48')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop66')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -128,12 +128,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:28Z"
+				"lastPublishTime": "2025-10-17T17:16:55Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun49')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop67')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -152,12 +152,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:29Z"
+				"lastPublishTime": "2025-10-17T17:16:56Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun5')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop68')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -176,12 +176,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:06:46Z"
+				"lastPublishTime": "2025-10-17T17:16:57Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun50')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop69')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -200,12 +200,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:30Z"
+				"lastPublishTime": "2025-10-17T17:16:58Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun51')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop7')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -224,12 +224,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:31Z"
+				"lastPublishTime": "2025-10-17T17:16:05Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun52')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop70')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -248,12 +248,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:32Z"
+				"lastPublishTime": "2025-10-17T17:16:59Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun53')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop71')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -272,12 +272,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:33Z"
+				"lastPublishTime": "2025-10-17T17:17:00Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun54')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop72')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -296,12 +296,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:34Z"
+				"lastPublishTime": "2025-10-17T17:17:01Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun55')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop73')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -320,12 +320,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:35Z"
+				"lastPublishTime": "2025-10-17T17:17:01Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun56')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop74')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -344,12 +344,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:36Z"
+				"lastPublishTime": "2025-10-17T17:17:02Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun57')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop75')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -368,12 +368,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:37Z"
+				"lastPublishTime": "2025-10-17T17:17:03Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun58')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop76')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -392,12 +392,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:38Z"
+				"lastPublishTime": "2025-10-17T17:17:04Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun59')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop77')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -416,12 +416,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:39Z"
+				"lastPublishTime": "2025-10-17T17:17:05Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun6')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop78')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -440,12 +440,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:06:46Z"
+				"lastPublishTime": "2025-10-17T17:17:06Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun60')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop79')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -464,12 +464,12 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:40Z"
+				"lastPublishTime": "2025-10-17T17:17:06Z"
 			},
 			"dependsOn": []
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/hargun61')]",
+			"name": "[concat(parameters('factoryName'), '/hargunsukhrop8')]",
 			"type": "Microsoft.DataFactory/factories/pipelines",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -488,7 +488,7 @@
 					"elapsedTimeMetric": {}
 				},
 				"annotations": [],
-				"lastPublishTime": "2025-10-17T17:07:41Z"
+				"lastPublishTime": "2025-10-17T17:16:05Z"
 			},
 			"dependsOn": []
 		}
