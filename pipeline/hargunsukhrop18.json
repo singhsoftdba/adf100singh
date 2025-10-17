@@ -1,5 +1,5 @@
 {
-	"name": "hargun101",
+	"name": "hargunsukhrop18",
 	"properties": {
 		"activities": [
 			{
@@ -13,7 +13,7 @@
 			}
 		],
 		"annotations": [],
-		"lastPublishTime": "2025-10-17T17:12:52Z"
+		"lastPublishTime": "2025-10-17T17:16:14Z"
 	},
 	"type": "Microsoft.DataFactory/factories/pipelines"
 }
