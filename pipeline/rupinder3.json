@@ -1,5 +1,5 @@
 {
-	"name": "pipeline2",
+	"name": "rupinder3",
 	"properties": {
 		"activities": [
 			{
@@ -13,7 +13,7 @@
 			}
 		],
 		"annotations": [],
-		"lastPublishTime": "2025-10-17T17:41:04Z"
+		"lastPublishTime": "2025-10-17T17:31:02Z"
 	},
 	"type": "Microsoft.DataFactory/factories/pipelines"
 }
